@@ -1,0 +1,48 @@
+.navbar{
+    margin-top: 100px;
+    color: #61DAFB ;
+    height: 70px ;
+    display: flex;
+    justify-content: space-between;
+    background: #21222A;
+
+
+}
+.navimg{
+    display: flex;
+    justify-content: space-between;
+}
+.project{
+    width: 700px;
+    bottom:0;
+    top: 0;
+    left:0;
+    right:0;
+    margin: auto;
+
+
+}
+.home{
+    background: #282D35;
+    color: #f8f8f8;
+    padding: 50px;
+}
+li{
+    margin-top: 10px;
+}
+
+ul li::before{
+    color: #61DAFB;
+}
+
+h5{
+    color: #f7f7f7;
+    font-size: 20px;
+    top:0;
+    bottom:0;
+    margin: auto;
+    margin-left: 200px;
+}
+h3{
+    font-size: 20px;
+}
